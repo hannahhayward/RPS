@@ -6,7 +6,7 @@ namespace RPS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Welcome, please enter your username...");
         }
     }
 }
