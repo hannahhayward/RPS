@@ -6,7 +6,9 @@ namespace RPS
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Welcome, please enter your username...");
+            Console.WriteLine("Welcome to rock paper scissors");
+            var g = new Game();
+            g.Start();
         }
     }
 }
